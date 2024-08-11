@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stakehub/static/css/main.79d19d76.css",
+    "main.js": "/stakehub/static/js/main.c1a6496d.js",
+    "static/js/453.1deabb49.chunk.js": "/stakehub/static/js/453.1deabb49.chunk.js",
+    "index.html": "/stakehub/index.html",
+    "main.79d19d76.css.map": "/stakehub/static/css/main.79d19d76.css.map",
+    "main.c1a6496d.js.map": "/stakehub/static/js/main.c1a6496d.js.map",
+    "453.1deabb49.chunk.js.map": "/stakehub/static/js/453.1deabb49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.c1a6496d.js"
+  ]
+}
